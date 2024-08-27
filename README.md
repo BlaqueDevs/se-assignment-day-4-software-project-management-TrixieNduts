@@ -35,8 +35,18 @@
 - a gantt chart assists in managing all or part of a project.
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+- problems that affect the programs and applications that run on a computer
+- easy usable sofware
+- user friendly GUI
+  
+
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
+- deeply understanding its nature and scoope, also helps in understanding the root issue it becomes easier to tackle and document on how to resolve incase it occurs again.
+  
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+- a software capable of meeting the requirements of my users. 
+
 ## 11. What are the main features or functionalities that make your software stand out?
+
 ## 12. What data is available regarding the market size and growth potential for your software?
 ## 13. How can understanding market trends inform your software’s positioning and development?
