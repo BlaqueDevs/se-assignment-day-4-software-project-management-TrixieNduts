@@ -27,9 +27,13 @@
 
 
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
-- by defining the project scope, it enables your team to deliver projects efficiently in accordance with the original requirements
+- by defining the project scope, it enables your team to deliver projects efficiently in accordance with the original requirements.
+- a tool that can be used for projects, programs, and even initiatives to understand the work that has to be done to successfully produce a deliverable(s).
 
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+- the benefits of a detail project schedule is mainly for better project managment and planning.
+- a gantt chart assists in managing all or part of a project.
+
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
