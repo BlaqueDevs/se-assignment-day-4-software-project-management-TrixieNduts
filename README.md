@@ -47,6 +47,13 @@
 - a software capable of meeting the requirements of my users. 
 
 ## 11. What are the main features or functionalities that make your software stand out?
-
+- usability
+- accesibility
+- integrity
+- reliable
+- 
 ## 12. What data is available regarding the market size and growth potential for your software?
+- 
+
 ## 13. How can understanding market trends inform your software’s positioning and development?
+- Market analysis serves as a compass for businesses, directing them towards profitable growth opportunities.
